@@ -4,7 +4,7 @@
 <br>
 -API from 'rickandmortyapi.com'
 
-<h1><b>Rick N Morty Web App project</b></h1>
+<h1><b>Rick N Morty Web App</b></h1>
 
 https://rickandmortyapi.com/
 
