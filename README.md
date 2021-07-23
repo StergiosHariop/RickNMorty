@@ -1,9 +1,3 @@
-
-
--Bootstrap used
-<br>
--API from 'rickandmortyapi.com'
-
 <h1><b>Rick N Morty Web App</b></h1>
 
 https://rickandmortyapi.com/
