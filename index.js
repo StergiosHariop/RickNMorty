@@ -13,7 +13,7 @@ function Cards(data){
     data.forEach(character => {
 
     const col = document.createElement('div');
-    col.classList.add('col-4');
+    col.classList.add('col');
     container.appendChild(col);
 
     const card = document.createElement('div');
